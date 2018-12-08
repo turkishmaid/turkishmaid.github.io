@@ -30,7 +30,7 @@ title: Blog
             {% endif %}
         </span>
 
-        {{ post.content | split:"<!-- more -->" | first % }}
+        {{ post.content | split:"<!-- more -->" | first }}
 
         {% comment %}
         Das more-Feature und Disqus werden auf dieser Seite nicht genutzt.

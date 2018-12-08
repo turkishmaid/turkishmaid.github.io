@@ -1,5 +1,3 @@
-# README
+Added Disqus, MathJax and Google Analytics.
 
-This is `turkishmaid.github.io`.
-
-Comments via issues por favor.
+Changed typesetting of blog to enhance readability.

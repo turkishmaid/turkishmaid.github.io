@@ -3,7 +3,7 @@ layout: post
 title: "Was ist (für mich) Rassismus?"
 date:  2018-12-13 10:30:42 +0100
 category: politik
-tags: [rassismus,afd]
+tags: [rassismus]
 ---
 
 Wie für viele Begriffe aus politisch wichtigen Themenfeldern gibt es für "Rassismus" viele mögliche Definitionen. Die Auswahl der Definition ist oft nicht minder politisch, als die Anwendung selbst. Das macht die Sache in zweierlei Hinsicht schwierig: Zunächst einmal muss man immer im Auge behalten, was der andere vielleicht gerade meinen könnte, um ihn in einem vielleicht gerade hitzigen Diskussionsverlauf nicht auch noch falsch zu verstehen. Andererseits muss man sich auch selbst überlegen, was man durch den Begriff zum Ausdruck bringen möchte und dann über den gesamten Verlauf der eigenen Ausführungen zu dieser Definition stehen. Deswegen drehe ich die Frage, vielleicht auf den ersten Blick ungewöhnlich, zunächst mal um: Was soll er denn bedeuten?

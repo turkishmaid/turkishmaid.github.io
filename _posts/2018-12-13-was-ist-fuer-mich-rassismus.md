@@ -59,4 +59,4 @@ Interessanterweise schlug Memmi in selben Werk auch vor:
 
 Das würde tatsächlich viel unnötige Reibung aus der Diskussion nehmen, Derailing verhindern und z.B. auch diesen Text unnötig machen. Hätte sich das damals durchgesetzt, ich wär' sofort dabei. Aber Hand aufs Herz: würde _das_ jetzt und heute hier irgendjemand verstehen?
 
-Umgekeht sagt Wikipedia, leider ohne Nachweis, Memmis obige Definition sie "die in der Rassismusforschung aktuell am breitesten akzeptierte Definition". Belassen wir's also bei dieser. Bei Bedarf kann ich ja immer noch auf diese Erklärung verweisen.
+Umgekeht sagt Wikipedia, leider ohne Nachweis, Memmis obige Definition sei "die in der Rassismusforschung aktuell am breitesten akzeptierte Definition". Belassen wir's also bei dieser. Bei Bedarf kann ich ja immer noch auf diese Erklärung verweisen.

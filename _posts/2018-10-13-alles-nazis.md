@@ -15,7 +15,7 @@ Gerne ist dann auch die Rede von der "Nazi-Keule". Tatsächlich kommt der Nazi-V
 
 ### "Nazi": Sachlich falsch und nicht hilfreich
 
-Ich spreche bei den AfD’ern, noch weniger bei deren Wählern, ganz bewusst nicht von „Nazis“, oder auch nur von "Neonazis". Warum?
+Ich spreche bei den AfD’ern, noch weniger bei deren Wählern, ganz bewusst nicht von "Nazis", oder auch nur von "Neonazis". Warum?
 
 Zunächst ist der Tatbestand ist aus politikwissenschaftlicher Sicht schlicht [nicht erfüllt](https://de.wikipedia.org/wiki/Nazi). Wichtiger: Eine derartige Titulierung ist der Diskussion nicht förderlich. Stattdessen erlaubt sie den so Angesprochenen auch noch die Selbstinszenierung als Opfer der "Nazi-Keule".
 
@@ -27,7 +27,7 @@ Es ist gut belegt (und wurde auch schon innerparteilich beklagt), dass eine ganz
 
 Ganz einfach:
 
-**Pauschalisierender Hass aufgrund Geschlecht, Abstammung, "Rasse", Sprache, Heimat und Herkunft, Glauben, religiöser oder politischer Anschauungen (oder sexueller Orientierung) ist unterste Schublade, und zwar auch wenn man ihn korrekt (nämlich als "pauschalisierenden Hass") benennt.**
+**Pauschalisierender Hass aufgrund Geschlecht, Abstammung, "Rasse", Sprache, Heimat und Herkunft, Glauben, religiöser oder politischer Anschauungen, sexueller Orientierung oder sonstwas ist unterste Schublade, und zwar auch wenn man ihn korrekt, nämlich als "pauschalisierenden Hass", [oder einfach als Rassismus]({% post_url 2018-12-13-was-ist-fuer-mich-rassismus %}), benennt.**
 
 Was ich AfD’ern und ihren Wählern nämlich durchaus pauschal vorwerfe ist, dass sie rassistische Erklärungsmuster aufnehmen, wenn sie ihnen angeboten werden oder solche sogar aktiv bedienen. Und ich bin auch der Ansicht, dass viele von ihnen in Schmuddelecken wie der YouTube Kommentarspalte Dinge rauslassen, die sie wirklich vertreten, aber im "richtigen" Leben nie zu sagen wagen würden. Das Problem könnte also größer sein, als man denkt.
 
@@ -35,6 +35,34 @@ Was ich AfD’ern und ihren Wählern nämlich durchaus pauschal vorwerfe ist, da
 
 Und das ist jetzt noch nicht einmal ironisch gemeint.
 
+Deswegen nenne ich die nicht "Nazis". Punkt.
+
+### Aber "die Medien"!
+
+Konkret wurde [hier](https://www.youtube.com/watch?v=I01SUHnkZLg&lc=UgxGGm3rnUrvFOlOnad4AaABAg) behauptet:
+
+> Ach so!<br>
+> Jetzt auf einmal muss man differenzieren?<br>
+> Warum habt denn ausgerechnet Ihr, die Medien -Fuzzys die AfD und deren Anhänger als "Nazis" betitelt ???<br>
+> Heuchler!
+
+Naja, normalerweise ist es schon Sache desjenigen, der etwas behauptet, seine Behauptung auch zu belegen. Aber da er es ja durchaus nicht machen mochte, und da das betreffende Video mit einem von der ARD war, habe ich die Suchmaschine meiner Wahl mit `site:ard.de +afd +nazi` losgeschickt.
+
+Ich fand interessante und differenzierte Ausarbeitungen zu konkreten Kontakten von AfD'ern mit wirklichen Nazis, [Kritik von AfD'ern an "Nazi-Terminologie" in ihrer eigenen Partei](https://www.faz.net/aktuell/politik/inland/afd-politiker-kruse-kritisiert-nazi-jargon-in-seiner-partei-15788448.html) und sehr traurige, aber [detailliert nachgewiesene Parallelen zwischen Wortgebrauch und längeren Ausführungen von AfD-Spitzen und Führungspersonal aus dem letzten Jahrhundert](https://www.swr.de/swr2/kultur-info/streit-um-faz-beitrag-von-alexander-gauland-und-bezuege-zu-hitler-rede/-/id=9597116/did=22614454/nid=9597116/181lk49/index.html).
+
+Die Recherche empfand ich als sehr interessant und bildend, ihr Ziel konnte sie allerdings nicht erreichen: Ich fand keine pauschalierende Etikettierung der AfD als "Nazis".
+
+Daher habe ich meine Suche auf "Faschismus" und "Faschisten" statt "Nazi" ausgedehnt. Hier gibt es insgesamt nur 12 Treffer, die alle ebenfalls keinerlei pauschale Attributierung vornahmen.
+
+Myth busted. Wieder einmal.
+
+
+### Nachtrag
+
+Fühlt euch nicht zu sicher. Es könnte sein, dass jemand wirklich mal die kennzeichnenden Eigenschaften von Nationalsozialismus her nimmt und Handlungen und Äußerungen von AfD'ern daneben legt. Bisher war mir das zu mühsam...
+
+
+{% comment %}
 
 ### Wortklauberei?
 
@@ -53,3 +81,5 @@ Soweit zu "Journalistenwatch". Und jetzt zur deutschen Grammatik:
 Es muss doch jedem klar gewesen sein, dass der durchschnittliche Hörer selbstverständlich korrekterweise das "andere Taugenichtse" sowohl auf die "Messermänner", als auch auf die "Kopftuchmädchen" beziehen würde.
 
 Zunächst mal einfach so beim Hören. Und dann weil das die Reihung beschließende "und" eben nicht vor "Messermänner", sondern erst vor "Taugenichtse" stand. Die Abweisung von Weidels Widerspruch war also nicht nur aus politischen Gründen, sondern auch grammatikalisch völlig korrekt. Aber das dürfte den typischen AfD-Apologeten nicht wirklich erreicht haben.
+
+{% endcomment %}

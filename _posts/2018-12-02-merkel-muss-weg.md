@@ -39,8 +39,8 @@ Die AfD macht ja nur den vorhandenen Bodensatz der Leute sichtbar und messbar, d
 
 **Aber wieso sind so viele Leute plötzlich empfänglich für auch noch die allerplumpeste Lüge?**
 
-Und, nur damit das jetzt nicht wieder einer verdreht:
-- Ich meine damit z.B. nicht die sog. „Klimalüge“, sondern die Behauptung, der durch menschliches Handeln mit verursachte Klimawandel sei unter ernsthaften Wissenschaftlern „umstritten“.
+Und, nur damit das jetzt nicht wieder einer verdreht: Ich meine damit nicht die sog. „Klimalüge“, sondern:
+- Ich meine die Behauptung, der durch menschliches Handeln mit verursachte Klimawandel sei unter ernsthaften Wissenschaftlern „umstritten“.
 - Ich meine die bewusst falsch zitierten Vermögenswertstatistiken einer Alice Weidel.
 - Ich meine die aufgebauschten und kritiklos weitergegebenen Lügengeschichten a la „Asylanten haben mein Pferd geschlachtet“.
 

@@ -79,7 +79,7 @@ Warum? Das erschließt sich mir nicht wirklich. Wahrscheinlich aus ähnlich kurz
 
 Viel wichtiger als diese Ewiggestrigen ist jetzt, wieviel Geld tatsächlich in den Aufbau von Infrastruktur und Bildung in den Ländern investiert wird, aus denen die Menschen bisher weg wollten (18b-e). "Der Westen" hat sich lange genug an deren Menschen und Bodenschätzen fett gefressen – jetzt kann er anfangen, das wieder gut zu machen.
 
-Und, Hand aus Herz: Was wäre bei so einem gigantischen Vorhaben "Aufbau Süd" der Beitrag von Österreich, Polen, Ungarn, Tschechien denn gewesen? Vielleicht sollte Österreich sich erst mal darum kümmern, die rechtsradikalen Mini-Volkswirtschaften in seiner Nachbarschaft auf mitteleuropäisches Niveau zu bringen, [damit sie "uns" nicht so arg auf der Tasche liegen](https://www.bpb.de/wissen/P16RQL,0,0,Top_5_Nettozahler_und_Nettoempf%E4nger_der_EU.html).
+Und, Hand aufs Herz, was wäre bei so einem gigantischen Vorhaben "Aufbau Süd" von Österreich, Polen, Ungarn, Tschechien auch großartiges zu erwarten? Vielleicht sollte sich Österreich tatsächlich erst mal darum kümmern, die rechtsradikalen Mini-Volkswirtschaften in seiner Nachbarschaft auf mitteleuropäisches Niveau zu bringen, [damit sie "uns" nicht so arg auf der Tasche liegen](https://www.bpb.de/wissen/P16RQL,0,0,Top_5_Nettozahler_und_Nettoempf%E4nger_der_EU.html).
 
  Nur dieser kindische "[Weidel Stampf](https://www.kraftfuttermischwerk.de/blogg/alice-weidel-bockig-gifd/)" hätte halt nicht sein müssen.﻿
 

@@ -4,7 +4,7 @@ title:  "Den Migrationspakt lesen"
 date:   2018-11-15 06:50:00 +0100
 category: politik
 #author: Sara
-tags: [migration,afd]
+tags: [migration,afd,gcm]
 ---
 
 > Machen Sie sich etwa keine Sorgen bzgl. des [Migrationspaktes](http://www.un.org/depts/german/migration/A.CONF.231.3.pdf)?

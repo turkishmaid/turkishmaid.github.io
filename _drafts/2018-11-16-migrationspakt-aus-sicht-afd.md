@@ -4,7 +4,7 @@ title: "[Draft] Der Migrationspakt aus Sicht der AfD"
 date:  2018-11-16 06:50:00 +0100
 category: politik
 author: Sara
-tags: [migration,afd]
+tags: [migration,afd,gcm]
 ---
 
 Ziele für eine sichere, geordnete und reguläre Migration

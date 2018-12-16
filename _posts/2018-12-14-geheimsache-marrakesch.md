@@ -3,7 +3,7 @@ layout: post
 title: "Geheimsache Marrakesch?"
 date:  2018-12-14 14:23:23 +0100
 category: politik
-tags: [migration,afd,lüge]
+tags: [migration,afd,lüge,gcm]
 ---
 
 Bezug: [Beatrix von Storch zum "Untersuchungsausschuss Merkel"! - AfD-Fraktion in Euskirchen](https://youtu.be/xB6d5nQJ960?t=976) und zwar speziell der dritte Teil zum "Global Compact for Migration".

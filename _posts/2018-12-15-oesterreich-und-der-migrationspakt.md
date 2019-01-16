@@ -18,7 +18,7 @@ Und da sind sie wieder, die wohlbekannten Lügen.
 
 So oft gesagt, so oft widerlegt. [Wer Ohren hat zum hören, der höre](https://youtu.be/SF8Ep1eZDQA?t=1504), und wer Augen hat zum sehen, der sehe:
 
-> <span>15.</span> Wir sind uns darin einig, dass dieser Globale Pakt auf einer Reiheü bergreifender und interdependenter Leitprinzipien beruht:<br>
+> <span>15.</span> Wir sind uns darin einig, dass dieser Globale Pakt auf einer Reihe übergreifender und interdependenter Leitprinzipien beruht:<br>
 > &nbsp;&nbsp;&nbsp;a. Der Mensch im Mittelpunkt: ...<br>
 > &nbsp;&nbsp;&nbsp;b. Internationale Zusammenarbeit: ...<br>
 > &nbsp;&nbsp;&nbsp;c. **Nationale Souveränität: Der Globale Pakt bekräftigt das souveräne Recht der Staaten, ihre nationale Migrationspolitik selbst zu bestimmen**, sowie ihr Vorrecht, **die Migration innerhalb ihres Hoheitsbereichs** in Übereinstimmung mit dem Völkerrecht **selbst zu regeln**. Innerhalb ihres Hoheitsbereichs dürfen die Staaten zwischen regulärem und irregulärem Migrationsstatus unterscheiden, **einschließlich bei der Festlegung ihrer gesetzgeberischen und politischen Maßnahmen zur Umsetzung des Globalen Paktes**, unter Berücksichtigung der verschiedenen nationalen Realitäten, Politiken, Prioritäten **und Bestimmungen für Einreise, Aufenthalt und Arbeit** und im Einklang mit dem Völkerrecht;<br>

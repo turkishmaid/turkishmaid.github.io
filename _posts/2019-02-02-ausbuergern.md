@@ -40,7 +40,7 @@ Lustigerweise vertrat damals ausgerechnet der in rechten Kreisen heute so belieb
 
 ### Der geschichtliche Aspekt
 
-Ich sagte oben, die Einführung von Staatsbürgern "auf Bewährung", mithin "zweiter Klasse" sei auf dem Boden des Grundgesetzes schwer vorstellbar. Nun, in [Frankreich](https://www.sueddeutsche.de/kultur/recht-und-verbrechen-schlimmer-als-folter-1.2849287) und [Großbritannien](https://verfassungsblog.de/verantwortlichkeiten-ausbuergern-entzug-der-staatsbuergerschaft-zur-terrorismusbekaempfung-grossbritannien/) war es offenbar vorstellbar (im letzteren Fall sogar mit direkt auf die Ausbürgerung folgenden Drohnenmord).
+Ich sagte oben, die Einführung von Staatsbürgern "auf Bewährung", mithin "zweiter Klasse", sei auf dem Boden des Grundgesetzes schwer vorstellbar. Nun, in [Frankreich](https://www.sueddeutsche.de/kultur/recht-und-verbrechen-schlimmer-als-folter-1.2849287) und [Großbritannien](https://verfassungsblog.de/verantwortlichkeiten-ausbuergern-entzug-der-staatsbuergerschaft-zur-terrorismusbekaempfung-grossbritannien/) war es offenbar vorstellbar (im letzteren Fall sogar mit direkt auf die Ausbürgerung folgenden Drohnenmord).
 
 Aber Deutschland ist weder Frankreich noch Großbritannien und einem anständigen Umgang mit Menschen wird hierzulande, in der direkten Erfahrung einer wenig ruhmreichen jüngeren Vergangenheit –dem sog. ["Vogelschiss"](https://www.youtube.com/watch?v=78spEzkbUAM)– ein anderer Stellenwert zugeordnet, als anderswo.
 
@@ -48,15 +48,11 @@ Wir erinnern uns: [Das Gesetz über den Widerruf von Einbürgerungen und die Abe
 
 > Einbürgerungen, die in der Zeit zwischen dem 9. November 1918 und dem 30. Januar 1933 vorgenommen worden sind, [...] widerrufen werden [können], falls die Einbürgerung nicht als erwünscht anzusehen ist. Durch den Widerruf verlieren außer dem Eingebürgerten selbst auch diejenigen Personen die deutsche Staatsangehörigkeit, die sie ohne die Einbürgerung nicht erworben hätten.
 
-Der Sinn des Gesetzes war [nach Lehrbuchmeinung](http://universaar.uni-saarland.de/journals/index.php/tg/article/viewArticle/471/510#fuss11), _„aus dem deutschen Volkskörper einen unerfreulichen Neuzuwachs wieder zu beseitigen.“_ Unter fragwürdiger bis offen hanebüchener Berufung darauf haben sich die Nazis dann [der kritischen Elite in Deutschland entledigt](https://de.wikipedia.org/wiki/Erste_Ausb%C3%BCrgerungsliste_des_Deutschen_Reichs_von_1933) und bis Kriegsende über 39.000 Deutsche ausgebürgert. ["Volksverräter aus dem Volkskörper ausmerzen"](https://www.baden18-45.de/filter/1933-08-25-aus-dem-volkskoerper-ausgemerzt-die-erste-ausbuergerungsliste-erscheint/) hieß das damals und man rief offen zur Ermordung der als "vogelfrei" Erklärten auf.
+Der Sinn des Gesetzes war [nach damaliger Lehrbuchmeinung](http://universaar.uni-saarland.de/journals/index.php/tg/article/viewArticle/471/510#fuss11), _„aus dem deutschen Volkskörper einen unerfreulichen Neuzuwachs wieder zu beseitigen.“_ Unter fragwürdiger bis offen hanebüchener Berufung darauf haben sich die Nazis dann [der kritischen Elite in Deutschland entledigt](https://de.wikipedia.org/wiki/Erste_Ausb%C3%BCrgerungsliste_des_Deutschen_Reichs_von_1933) und bis Kriegsende über 39.000 Deutsche ausgebürgert. ["Volksverräter aus dem Volkskörper ausmerzen"](https://www.baden18-45.de/filter/1933-08-25-aus-dem-volkskoerper-ausgemerzt-die-erste-ausbuergerungsliste-erscheint/) hieß das damals und man rief offen zur Ermordung der als "vogelfrei" Erklärten auf.
 
-Heute würde sich sicherlich niemand mehr der Formulierung von 1933 bedienen. Allerdings werden die Forderungen nach Ausbürgerung für nicht gebürtige Deutsche –wie auch im vorliegenden Fall– regelmäßig im Umfeld von Überlegungen über "Pass-Deutsche", "Überfremdung" oder "Multi-Kulti" erhoben. Und auch der Terminus "Volksverräter" geistert ja heute wieder durch die sog. "sozialen" Medien.
+Heute würde sich sicherlich niemand mehr der Formulierung von 1933 bedienen. Allerdings werden die Forderungen nach Ausbürgerung für nicht gebürtige Deutsche –wie auch im vorliegenden Fall– regelmäßig im Umfeld von Überlegungen über "Pass-Deutsche", "Überfremdung" oder "Multi-Kulti" erhoben. Und auch der Terminus "Volksverräter" geistert ja heute wieder durch die sog. "sozialen" Medien. Es ist also nicht nur verschämt, sondern völlig offen und in einschlägiger Terminologie davon die Rede, bestimmte Deutsche aufgrund ihrer Herkunft anders zu behandeln, als andere "unerfreuliche" Gestalten mit "deutscherer" Herkunft. 
 
-Es ist also nicht nur verschämt, sondern völlig offen und in einschlägiger Terminologie davon die Rede, bestimmte Deutsche aufgrund ihrer Herkunft anders zu behandeln, als andere "unerfreuliche" Gestalten mit "deutscherer" Herkunft. 
-
-Im Kern drückt sich in der Forderung von heute also nichts anderes aus, als im Gesetz von 1933.
-
-Es ist traurig, dass die Protagonisten von heute nicht selbst darauf kommen. Und es ist erfreulich, dass sie nicht selbst darauf kommen müssen. Die Väter (und Mütter) des Grundgesetzes haben nämlich sehr, sehr viel Respekt vor einer möglichen Wiederholung der Geschichte gehabt und uns genau für solche Fälle folgendes mitgegeben:
+Im Kern drückt sich in der Forderung von heute also nichts anderes aus, als im Gesetz von 1933. Es ist traurig, dass die Protagonisten von heute nicht selbst darauf kommen. Und es ist erfreulich, dass sie nicht selbst darauf kommen müssen. Die Väter (und Mütter) des Grundgesetzes haben nämlich sehr, sehr viel Respekt vor einer möglichen Wiederholung der Geschichte gehabt und uns genau für solche Fälle folgendes mitgegeben:
 
 ### Artikel 3 GG
 
@@ -69,37 +65,8 @@ Und, als ob es angesichts der unmittelbaren Erfahrung des sog. "Dritten Reiches"
 Wir sehen also: Wer sich mit Art. 19(1) GG anlegt, der bekommt es auch mit Art. 3(1) zu tun. Und da die Situation in diesem Fall so einfach gelagert ist, können wir uns beruhigt zurücklehnen und auf Karlsruhe vertrauen.
 
 
-### Praxis von Diktaturen
-
-Abgesehen davon, dass ein Rausschmiss aus der eigenen Rechtsordnung natürlich ein Offenbarungseid der Rechtsstaatlichkeit an sich wäre, muss man sich auch einmal verdeutlichen, mit wem man sich durch eine solche Ausbürgerungsklausel gemein machen würde.
-
-Die Nazis hatten wir ja oben schon. Sie hatten sich unter fragwürdiger bis hanebüchener Berufung auf das oben wiedergegebene Gesetz [der kritischen Elite in Deutschland entledigt](https://de.wikipedia.org/wiki/Erste_Ausb%C3%BCrgerungsliste_des_Deutschen_Reichs_von_1933). ["Volksverräter aus dem Volkskörper ausmerzen"](https://www.baden18-45.de/filter/1933-08-25-aus-dem-volkskoerper-ausgemerzt-die-erste-ausbuergerungsliste-erscheint/) hieß das damals. Man braucht nur einmal die Suchmaschine seiner Wahl anzuwerfen, um zu erkennen, dass mindestens die Social Media Truppen der Neuen Rechten keinerlei Berührungsängste mehr mit den Begriffsmustern und
-
-
-
-
-
-Einen sehr interessanten Aspekt [bringt auch das Verfassungsblog ein](https://verfassungsblog.de/verantwortlichkeiten-ausbuergern-entzug-der-staatsbuergerschaft-zur-terrorismusbekaempfung-grossbritannien/),
-
-
-
-Andreas Zielke kommt, ebenfalls im Zusammenhang mit der Ausbürgerung von IS-Kämpfern (diesmal in Frankreich), zum Schluss, der Entzug der Staatsbürgerschaft sei [primitiver als Folter](https://www.sueddeutsche.de/kultur/recht-und-verbrechen-schlimmer-als-folter-1.2849287). Die Formulierung mag angreifbar sein, sein Punkt ist es nicht:
-
-
-
-
-
 ### Nazis raus?
 
-Und nach all diesen Überlegungen wiederhole ich mit voller Überzeugung einen Ansatz aus meinem ursprünglichen YouTube-Kommentar:
+Man könnte noch ausführen, dass ein Rausschmiss aus der eigenen Rechtsordnung natürlich ein Offenbarungseid der Rechtsstaatlichkeit an sich wäre, oder mit was für Diktaturen man sich gemein machen würde, führte man so etwas ein. Aber ich glaube, das ist müßig. Und deswegen wiederhole ich zum Abschluss mit voller Überzeugung einen Ansatz aus meinem ursprünglichen YouTube-Kommentar:
 
 > Ich ertappe mich immer wieder dabei, mir „Rauswerfen“ als Option für grundgesetzfernes Nazi-Gesindel zu wünschen. Aber sogar für diese nun wirklich unwürdigen Personen gilt der Schutz des Grundgesetzes. Und das ist auch gut so.
-
-
----
-
-
-](https://www.bundestag.de/blob/550590/55a7e2d2698ef4aaeb5819ac14506f23/wd-2-138_15-pdf-data.pdf) war damals sehr eindeutig:
-- Ein zulässiger Anknüpfungspunkt
-für den Verlust der Staatsbürgerschaft ist die (freiwillige) Abwendung vom Heimatstaat, welche durch einen konkreten (statusrechtlichen) Rechtsakt dokumentiert und begründet wird.
--

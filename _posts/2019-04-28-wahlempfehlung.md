@@ -20,17 +20,17 @@ Ich bin auch ganz grundsätzlich keine Freundin von Parteien, weil man mit ihnen
 
 Lustigerweise finde ich übrigens sogar im AfD-Paket ein bisschen Gutes. Jedenfalls programmatisch – was sich aber leider in der parlamentarischen Arbeit nicht wiederfindet.﻿ Die AfD'er deswegen pauschal als [NPC](https://de.wikipedia.org/wiki/Nicht-Spieler-Charakter) einzusortieren, halte ich aber für unsachgemäß bis hin zur gefährlichen Unterschätzung. Denn durch ihr Wirken tragen die Populisten ([Wortbedeutung nachschlagen!](https://de.wikipedia.org/wiki/Populismus)) mindestens genau so viel zur gegenwärtigen gesellschaftlichen Spaltung bei, wie die bevölkerungsabgewandte Politik der von ihnen so abgelehnten "etablierten" Eliten. Insofern sind sie sehr wohl "playing": sie spielen mit allem, was uns heilig ist. Sie gewähren zu lassen, ist ein Spiel mit dem Feuer.
 
-Deswehen nicht-Wählen trotz Parteienverdrossenheit keine Option.
+Und so ist nicht-Wählen trotz aller Parteienverdrossenheit keine Option.
 
 ### Aber welche Partei denn nun?
 
-Nun, es herrscht Wahlgeheimnis. Vielleicht wähle ich die NPD, die MLPD, oder die Violetten. Ihr werdet es nie erfahren. Aber ein bissl was kann ich schon sagen.
+Nun, es herrscht Wahlgeheimnis. Vielleicht wähle ich die NPD, die MLPD oder die Violetten. Ihr werdet also nie erfahren, was ich wähle. Aber ein bissl was kann ich schon sagen.
 
 #### Zur Europawahl
 
 Da kann ich **Piraten** empfehlen. Nicht unbedingt wegen des zerstrittenen Haufens selbst, sondern wegen des Spitzenkandidaten Patrick Breyer, der als ausgewiesener Datenschützer und in allen anderen Fragen streng sachorientiert gilt und erfahrungsgemäß ohne rechte oder linke Ideologie auskommt. Er hat eine echte Chance auf einen Sitz und wäre, wie zuvor Julia Reda und Amelia Andersdotter ein großer Gewinn für das Parlament.
 
-Dem Wahlhinweis von Julia ist insofern keine Beachtung zu schenken, dass Listenplatz zwei –Gilles Bordelais, der genau so viel Schwierigkeiten mit Frauen zu haben scheint, wie mit der eigenen Partei– und ohnehin chancenlos ist.
+Dem Wahlhinweis von Julia ist insofern keine Beachtung zu schenken, dass Listenplatz zwei –Gilles Bordelais, der genau so viel Schwierigkeiten mit Frauen zu haben scheint, wie mit der eigenen Partei– ohnehin chancenlos ist.
 
 Alternativ kämen die **Grünen** und die **SPD** in Frage, die auf europäischer Ebene viel bessere Arbeit leisten, als im Bundestag.
 

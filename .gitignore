@@ -40,3 +40,10 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+
+# GitHub default for Jekyll (new)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

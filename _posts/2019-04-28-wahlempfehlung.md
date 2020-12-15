@@ -6,7 +6,7 @@ category: politik
 tags: [parteien,afd,spd,europa]
 ---
 
-Da ich öfters nach meiner Meinung zu verschiednen Parteien gefragt werde. Hier einige Gedanken dazu, die wie immer [aus YouTube-Kommentaren](https://www.youtube.com/watch?v=nOLJ_XEu7Bw&lc=UgwiXvj1glrkXfDNlHV4AaABAg) zusammengesetzt sind. Deswegen bitte nicht böse sein, wenn man das doppelt gesagt wird:
+Da ich öfters nach meiner Meinung zu verschiednen Parteien gefragt werde. Hier einige Gedanken dazu, die wie immer [aus YouTube-Kommentaren](https://www.youtube.com/watch?v=nOLJ_XEu7Bw&lc=UgwiXvj1glrkXfDNlHV4AaABAg) zusammengesetzt sind. Deswegen bitte nicht böse sein, wenn mal was doppelt gesagt wird:
 
 ### "Auf Regierungslinie"?
 
